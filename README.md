@@ -42,9 +42,8 @@ pip install keyboard
 
 **Exemplo de `links.txt`:**
 ```
-[https://github.com](https://github.com)
-[https://www.linkedin.com](https://www.linkedin.com)
-[https://www.google.com](https://www.google.com)
+SeuSite.com.br/informacoes/mapa-do-site
+
 ```
 
 ### Passo 5: Execute a Automação!
